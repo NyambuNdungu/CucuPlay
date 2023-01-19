@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^8.10.0",
+    "playwright": "^1.29.2"
+  }
+}
